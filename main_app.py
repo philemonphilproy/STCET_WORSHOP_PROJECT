@@ -92,7 +92,7 @@ def create_video(image_files, duplicate_count, fps, audio_path):
     return output_filename
 # --- 3. STREAMLIT UI LOGIC ---
 
-st.set_page_config(page_title="PragyanAI Video Creator", layout="wide")
+st.set_page_config(page_title="Philemon Video Creator", layout="wide")
 
 # Display logo if it exists
 if os.path.exists("PragyanAI_Transperent.png"):

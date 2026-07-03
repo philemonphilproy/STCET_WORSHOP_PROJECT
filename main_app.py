@@ -98,7 +98,7 @@ st.set_page_config(page_title="Philemon Video Creator", layout="wide")
 if os.path.exists("PragyanAI_Transperent.png"):
     st.image("PragyanAI_Transperent.png")
 
-st.title("PragyanAI - Multimedia Merger")
+st.title("PhilemonAI - Multimedia Merger")
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
 
 with st.sidebar:
